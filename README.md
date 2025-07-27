@@ -14,14 +14,6 @@ Um projeto de E-commerce responsivo desenvolvido com **React**, **Vite** e **Boo
 
 ---
 
-## 📸 Preview
-![Uploading image.png…]()
-
-
-![screenshot](./src/assets/screenshot.png) <!-- Substitua por uma captura real, se desejar -->
-
----
-
 ## 🧪 Tecnologias Utilizadas
 
 | Tecnologia      | Função                                        |
